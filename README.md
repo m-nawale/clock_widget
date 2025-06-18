@@ -8,12 +8,12 @@ This project was created as a personal learning journey — to understand applic
 
 ## Features
 
-- ✅ Always-on-top floating clock window  
-- 🌍 Selectable timezones via dropdown (major world cities)  
-- 🕹️ Draggable window  
-- 🌓 Dark-themed minimalist design  
-- ⚙️ Built using only Python standard libraries (`tkinter`, `zoneinfo`, `datetime`)  
-- 📦 Packaged into standalone `.exe` and Linux binaries using PyInstaller  
+- Always-on-top floating clock window  
+- Selectable timezones via dropdown (major world cities)  
+- Draggable window  
+- Dark-themed minimalist design  
+- Built using only Python standard libraries (`tkinter`, `zoneinfo`, `datetime`)  
+- Packaged into standalone `.exe` and Linux binaries using PyInstaller  
 
 ---
 
@@ -56,7 +56,7 @@ This project was built to:
 
 ## Preview
 
-<screenshot here>
+![Floating Clock Widget](assets/screenshot.png)
 
 ---
 
